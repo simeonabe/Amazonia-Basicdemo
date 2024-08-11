@@ -36,7 +36,7 @@ $ cd mern-amazonia
 
 - Local MongoDB
   - Install it from [here](https://www.mongodb.com/try/download/community)
-  - In .env file update MONGODB_URI=mongodb://localhost/amazona
+  - In .env file update MONGODB_URI=mongodb://localhost/amazonia
 - OR Atlas Cloud MongoDB
   - Create database at [https://cloud.mongodb.com](https://cloud.mongodb.com)
   - In .env file update MONGODB_URI=mongodb+srv://your-db-connection
@@ -70,7 +70,6 @@ $ npm start
   
 <!---
 ## Support
-
 ------------- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
 -->
 
